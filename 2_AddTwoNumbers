@@ -7,7 +7,7 @@
  * }
  */
  
-# Not a concise format though
+// Not a concise format though
 
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
