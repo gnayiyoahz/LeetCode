@@ -1,4 +1,5 @@
-// Very easy
+// Time O(n), Space O(1)
+
 class Solution {
     public int peakIndexInMountainArray(int[] A) {
         int i = 0;
