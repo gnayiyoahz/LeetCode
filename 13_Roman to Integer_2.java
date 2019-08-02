@@ -32,6 +32,7 @@ class Solution {
         }
         
         if (l == 1) return num[0];
+        
         int sum = 0;
         for (int j = 0; j < l; j++) {
             if (j+1 < l && num[j] < num[j+1]) {
