@@ -1,3 +1,5 @@
+// slightly better runtime performance
+
 class Solution {
     public int lengthOfLastWord(String s) {
         int count = 0;
