@@ -2,7 +2,14 @@
 (Some repetitions might occur)
 ## Basic Algorithms
 
-## Trees
+## Important Data Structures
+### Tree
+
+
+### HashMap 
+* [Two Sum](/1_TwoSum_2.java)
+
+###
 
 ## Pointer Manipulation
 
