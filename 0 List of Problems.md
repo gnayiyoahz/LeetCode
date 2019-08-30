@@ -45,6 +45,9 @@ Recursive implementation.
 * [111_Minimum Depth of Binary Tree](/111_Minimum_Depth_of_Binary_Tree.java)
 * [112_Path Sum.java](/112_Path_Sum.java.java)
 
+### HashSet
+* [217_Contains Duplicate_1](/217_Contains_Duplicate_1.java)
+
 ### HashMap 
 Note that HashMap does not allow duplicate keys.
 * [1_Two Sum](/1_TwoSum_1.java)
