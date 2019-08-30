@@ -43,7 +43,8 @@ Recursive implementation.
 * [108_Convert Sorted Array to Binary Search Tree](/108_Convert_Sorted_Array_to_Binary_Search_Tree.java)
 * [110_Balanced Binary Tree](/[110_Balanced_Binary_Tree.java)
 * [111_Minimum Depth of Binary Tree](/111_Minimum_Depth_of_Binary_Tree.java)
-* [112_Path Sum.java](/112_Path_Sum.java.java)
+* [112_Path Sum](/112_Path_Sum.java.java)
+* [226_Invert Binary Tree](/226_Invert_Binary_Tree.java)
 
 ### HashSet
 * [217_Contains Duplicate_1](/217_Contains_Duplicate_1.java)
